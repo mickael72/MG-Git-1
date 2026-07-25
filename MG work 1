@@ -1,0 +1,4 @@
+cd /workspaces
+git clone mg-git-1-nextjs-saas.bundle mg && cd mg
+git remote add origin https://github.com/mickael72/MG-Git-1.git
+git push -u origin claude/nextjs-saas-app-y6sjm3
